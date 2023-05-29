@@ -39,6 +39,10 @@ body {
     text-transform: uppercase;
 }
 
+.logo-span {
+    color: var(--dark);
+}
+
 .header-nav {
     color: var(--dark);
     font-weight: 500;
